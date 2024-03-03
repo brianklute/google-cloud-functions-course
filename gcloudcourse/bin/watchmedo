@@ -1,4 +1,4 @@
-#!/home/bk/PycharmProjects/google-cloud-functoins-course/gcloudcourse/bin/python3
+#!/home/bk/PycharmProjects/google-cloud-functions-course/gcloudcourse/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

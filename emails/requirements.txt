@@ -1,0 +1,2 @@
+sendgrid
+flask==2.3.3
